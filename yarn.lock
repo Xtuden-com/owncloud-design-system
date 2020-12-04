@@ -13191,10 +13191,10 @@ void-elements@^2.0.1:
   resolved "https://registry.yarnpkg.com/void-elements/-/void-elements-2.0.1.tgz#c066afb582bb1cb4128d60ea92392e94d5e9dbec"
   integrity sha1-wGavtYK7HLQSjWDqkjkulNXp2+w=
 
-vue-avatar@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/vue-avatar/-/vue-avatar-2.2.0.tgz#cf2328f007943d754fea8aa9c5999b4f40a22bec"
-  integrity sha512-z83MuCvawCz+bfb8y5JctDFGdUj5TUw0rc/xCIKuhnt8KdzDXt8QeuytJfqyPiHO0ZEI3dqlB1ftiOWrNDgQsQ==
+vue-avatar@^2.3.3:
+  version "2.3.3"
+  resolved "https://registry.yarnpkg.com/vue-avatar/-/vue-avatar-2.3.3.tgz#e125bf4f4a6f4f9480da0c522020266a8609d2a8"
+  integrity sha512-Z57ILRTkFIAuCH9JiFBxX74C5zua5ub/jRDM/KZ+QKXNfscvmUOgWBs3kA2+wrpZMowIvfLHIT0gvQu1z+zpLg==
 
 vue-datetime@^1.0.0-beta.10:
   version "1.0.0-beta.13"
